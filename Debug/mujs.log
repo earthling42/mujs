@@ -1,0 +1,36 @@
+﻿Build started 2014/12/23 21:19:04 PM.
+     1>Project "C:\Users\ageyser\Projects\mujs\mujs.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ageyser\Projects\mujs\Debug\mujs.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ageyser\Projects\mujs\Debug\mujs.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ageyser\Projects\mujs\Debug\mujs.lib" /MACHINE:X86 Debug\jsarray.obj
+         Debug\jsboolean.obj
+         Debug\jsbuiltin.obj
+         Debug\jscompile.obj
+         Debug\jsdate.obj
+         Debug\jsdtoa.obj
+         Debug\jsdump.obj
+         Debug\jserror.obj
+         Debug\jsfunction.obj
+         Debug\jsgc.obj
+         Debug\jsintern.obj
+         Debug\jslex.obj
+         Debug\jsmath.obj
+         Debug\jsnumber.obj
+         Debug\jsobject.obj
+         Debug\json.obj
+         Debug\jsparse.obj
+         Debug\jsproperty.obj
+         Debug\jsregexp.obj
+         Debug\jsrun.obj
+         Debug\jsstate.obj
+         Debug\jsstring.obj
+         Debug\jsvalue.obj
+         Debug\main.obj
+         Debug\regex.obj
+         Debug\utf.obj
+         Debug\utftype.obj
+         mujs.vcxproj -> C:\Users\ageyser\Projects\mujs\Debug\mujs.exe
+     1>Done Building Project "C:\Users\ageyser\Projects\mujs\mujs.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75
